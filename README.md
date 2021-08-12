@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tantian2005
+- 👋 Hi, I’m @tantian2005, a high school student in Shanghai.
 - 👀 I’m interested in C/C++, Unity, Html.
 - 🌱 I’m currently learning C/C++.
 - 💞️ I’m looking to collaborate on Unity Projects, like separate games.
