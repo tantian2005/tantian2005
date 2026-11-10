@@ -8,7 +8,7 @@ B.Eng. Emerging Technologies (Hochschule Coburg) · exchange in Microsystems Eng
 - Interested in microelectronics, embedded systems, test automation and photonics
 
 ## 🚀 Projects
-- **[Fernweh](https://github.com/tantian2005/fernweh)**: a single-file HTML city footprint tracker with a world city database, map view and travel stats. Built with AI assistance ("vibe coding"), where I defined the features and iterated on the design and behaviour.
+- **[Fernweh](https://github.com/tantian2005/fernweh)**: a single-file HTML city footprint tracker with a world city database, map view and travel stats. Built with AI assistance, where I defined the features and iterated on the design and behaviour.
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
